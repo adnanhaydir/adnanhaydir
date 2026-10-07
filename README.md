@@ -31,9 +31,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## ◆ About Me
-
+</div>
 I'm **Adnan Haydir**, a developer focused on creating **modern, scalable, and elegant digital experiences**.
 
 My primary expertise is building web applications with **Next.js, React, and Tailwind CSS**, combined with database technologies such as **PostgreSQL and MySQL**.

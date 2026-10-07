@@ -32,8 +32,6 @@
 
 ---
 
-<div align="center">
-
 ## ◆ About Me
 
 I'm **Adnan Haydir**, a developer focused on creating **modern, scalable, and elegant digital experiences**.
@@ -41,8 +39,6 @@ I'm **Adnan Haydir**, a developer focused on creating **modern, scalable, and el
 My primary expertise is building web applications with **Next.js, React, and Tailwind CSS**, combined with database technologies such as **PostgreSQL and MySQL**.
 
 I'm currently expanding my knowledge into **Artificial Intelligence**, exploring LLMs, AI APIs, and intelligent applications.
-
-<div align="start">
 
 ```javascript
 const adnan = {

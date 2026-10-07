@@ -167,17 +167,7 @@ const adnan = {
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=080A09&ring=D4AF37&fire=9FB8A8&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0" />
-
-</div>
-
----
-
-## ◆ Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adnanhaydir/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://streak-stats.demolab.com?user=adnanhaydir&hide_border=true&background=080A09&ring=D4AF37&fire=9FB8A8&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0" />
 
 </div>
 

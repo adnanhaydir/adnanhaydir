@@ -34,14 +34,57 @@
 
 <div align="center">
 
-## ◆ About Me
+# ✦ About Me
 
-I'm **Adnan Haydir**, a developer focused on creating **modern, scalable, and elegant digital experiences**.
+<div align="center">
 
-My primary expertise is building web applications with **Next.js, React, and Tailwind CSS**, combined with database technologies such as **PostgreSQL and MySQL**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full+Stack+Engineer;Building+Elegant+%26+Scalable+Digital+Experiences;Turning+Ideas+Into+Powerful+Software" />
 
-I'm currently expanding my knowledge into **Artificial Intelligence**, exploring LLMs, AI APIs, and intelligent applications.
+<br/>
 
+<p>
+  <i>“Great software is not only built to work — it is crafted to be experienced.”</i>
+</p>
+
+</div>
+
+◆ Who I Am
+
+I'm a Software Developer passionate about transforming ideas into modern, scalable, and meaningful digital products.
+
+I enjoy working across the entire development process — from designing intuitive interfaces and architecting applications to building reliable backend systems and optimizing performance.
+
+My approach combines clean engineering, thoughtful UI/UX, and attention to detail to create software that is not only functional, but also refined and enjoyable to use.
+
+<br/>
+
+<div align="center">
+
+◈
+
+Focus
+
+⚡
+
+Modern Web Applications
+
+◇
+
+Full-Stack Development
+
+◈
+
+UI/UX & Product Experience
+
+◆
+
+Scalable Architecture
+
+✦
+
+Clean & Maintainable Code
+
+</div>
 ---
 
 ## ◆ Expertise

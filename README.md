@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full+Stack+Engineer;Building+Elegant+%26+Scalable+Digital+Experiences;Turning+Ideas+Into+Powerful+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Enthusiasm;Building+Elegant+%26+Scalable+Digital+Experiences;Turning+Ideas+Into+Powerful+Software" />
 
 <br/>
 

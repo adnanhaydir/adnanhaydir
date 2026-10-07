@@ -58,34 +58,6 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
 
 <br/>
 
-<div align="center">
-
-◈
-
-Focus
-
-⚡
-
-Modern Web Applications
-
-◇
-
-Full-Stack Development
-
-◈
-
-UI/UX & Product Experience
-
-◆
-
-Scalable Architecture
-
-✦
-
-Clean & Maintainable Code
-
-</div>
-
 ---
 
 ## ◆ Expertise

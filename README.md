@@ -110,42 +110,48 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
 
 ---
 
-## ◆ Current Focus
+## ✦ Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-D4AF37?style=for-the-badge&logo=openai&logoColor=0B0B0B" />
-
-<img src="https://img.shields.io/badge/LLMs-14231C?style=for-the-badge&logoColor=F5F5F0" />
-
-<img src="https://img.shields.io/badge/AI%20APPLICATIONS-24352D?style=for-the-badge&logoColor=F5F5F0" />
-
-<br/><br/>
+### ◈ Building
 
 ```text
-                     ┌──────────────────┐
-                     │   INTELLIGENCE   │
-                     └────────┬─────────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │     LLMs    │
-                       └──────┬──────┘
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │  AI APPLICATIONS │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                       ┌───────────┐
-                       │  PRODUCT  │
-                       └───────────┘
+▸ Modern Web Applications
+▸ Scalable SaaS Platforms
+▸ Custom Business Solutions
+▸ High-performance UI/UX
 ```
+
+</td>
+<td width="50%">
+
+### ◈ Exploring
+
+```text
+▸ Next.js & React Ecosystem
+▸ AI-powered Applications
+▸ Cloud & Serverless Architecture
+▸ Advanced Database Systems
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-> **Exploring the intersection between Artificial Intelligence and modern web development.**
+<div align="center">
+
+### `STATUS`
+
+**Crafting • Learning • Improving • Shipping**
+
+`████████████████████░░` **90%**
+
+> *Turning ideas into elegant, scalable and meaningful digital experiences.*
 
 </div>
 

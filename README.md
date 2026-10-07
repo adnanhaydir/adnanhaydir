@@ -177,7 +177,7 @@ const adnan = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adnanhaydir/adnanhaydir/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/adnanhaydir/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 

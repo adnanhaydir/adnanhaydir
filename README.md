@@ -42,6 +42,8 @@ My primary expertise is building web applications with **Next.js, React, and Tai
 
 I'm currently expanding my knowledge into **Artificial Intelligence**, exploring LLMs, AI APIs, and intelligent applications.
 
+<div align="start">
+
 ```javascript
 const adnan = {
   role: "Full-Stack Developer",

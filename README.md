@@ -1,210 +1,180 @@
-<!-- HEADER -->
+<!-- ==================== NEON HEADER ==================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Adnan%20Haydir&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Next.js%20%7C%20AI%20Explorer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:0066FF,50:7B2FFF,75:FF00E5,100:00F5FF&height=240&section=header&text=ADNAN%20HAYDIR&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%20EXPLORER&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
 <br/>
 
+<!-- ==================== TYPING ANIMATION ==================== -->
+
 <a href="https://github.com/adnanhaydir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%26+Tailwind+CSS+Enthusiast;Building+Modern+Web+Applications;Currently+Exploring+Artificial+Intelligence;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I'm+Adnan+Haydir+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Next.js+%2B+Tailwind+CSS+%E2%9A%A1;Building+Modern+Web+Applications+%F0%9F%9A%80;Currently+Exploring+Artificial+Intelligence+%F0%9F%A4%96;Turning+Ideas+Into+Digital+Products+%F0%9F%92%A1" />
+
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=adnanhaydir&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge" />
 
 <br/><br/>
 
 <a href="https://github.com/adnanhaydir">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://linkedin.com/in/adnanhaydir">
+<img src="https://img.shields.io/badge/LinkedIn-7B2FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:adnanhaydirwork@gmail.com">
+<img src="https://img.shields.io/badge/Email-FF00E5?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- ==================== ABOUT ME ==================== -->
 
-Hi! I'm **Adnan Haydir**, a developer passionate about creating modern and meaningful digital experiences.
-
-I specialize in building **responsive, scalable, and user-focused web applications**, primarily using **Next.js** and **Tailwind CSS**.
-
-Currently, I'm diving deeper into **Artificial Intelligence**, exploring how AI and modern web technologies can come together to create smarter applications.
-
-```javascript
-const adnan = {
-  name: "Adnan Haydir",
-  role: "Full-Stack Developer",
-  focus: ["Next.js", "React", "Tailwind CSS"],
-  database: ["PostgreSQL", "MySQL"],
-  currentlyLearning: ["AI", "LLMs", "AI Applications"],
-  mindset: "Build → Learn → Improve → Repeat"
-};
-```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Frontend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwindcss" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql" />
-
-### AI & Development
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwindcss,nodejs,prisma,postgres,mysql,python,git,github,vscode" />
-
-</div>
-
----
-
-## 🤖 Currently Exploring AI
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  ABOUT ME
+</h2>
 
 <div align="center">
 
 ```text
-          ┌─────────────────────┐
-          │   Artificial AI     │
-          │    Intelligence     │
-          └──────────┬──────────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │     LLMs     │
-              └──────┬───────┘
-                     │
-                     ▼
-            ┌─────────────────┐
-            │  AI Applications │
-            └────────┬────────┘
-                     │
-                     ▼
-             🚀 Real Products
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   👨‍💻  Adnan Haydir                                          ║
+║                                                              ║
+║   ⚡ Full-Stack Developer                                    ║
+║   🌐 Next.js & React                                         ║
+║   🎨 Tailwind CSS                                            ║
+║   🗄️  PostgreSQL & MySQL                                     ║
+║   🤖 AI & LLM Explorer                                      ║
+║                                                              ║
+║   Building digital experiences that are                     ║
+║   fast, beautiful, scalable & intelligent.                  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-> My goal is to combine **modern web development + AI** to build useful and intelligent products.
-
 ---
 
-## 🚀 What I'm Working On
+<!-- ==================== CURRENT FOCUS ==================== -->
+
+<h2 align="center">⚡ CURRENTLY EXPLORING ⚡</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00F5FF?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-7B2FFF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20APPLICATIONS-FF00E5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20AGENTS-0066FF?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
 
 ```text
-🌐 Modern Web Applications
-⚡ Next.js & React Ecosystem
-🎨 Clean UI with Tailwind CSS
-🗄️ Scalable Database Architecture
-🤖 AI & LLM-powered Applications
-🧠 Continuous Learning
+              ┌──────────────────────┐
+              │  🧠 ARTIFICIAL AI    │
+              │    INTELLIGENCE      │
+              └──────────┬───────────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │      LLMs     │
+                 └───────┬───────┘
+                         │
+                         ▼
+               ┌──────────────────┐
+               │  AI APPLICATIONS │
+               └────────┬─────────┘
+                        │
+                        ▼
+                ┌──────────────┐
+                │ 🚀 PRODUCTS  │
+                └──────────────┘
 ```
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Journey
+<!-- ==================== TECH STACK ==================== -->
+
+<h2 align="center">🔥 TECH STACK</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+### 🌐 Frontend
 
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwindcss&theme=dark" />
 
----
+<br/><br/>
 
-## 🌱 My Developer Journey
+### ⚙️ Backend & Database
 
-```text
-Web Development
-      │
-      ├── React
-      │
-      ├── Next.js
-      │
-      ├── Tailwind CSS
-      │
-      ├── Databases
-      │
-      └── Full-Stack Development
-                 │
-                 ▼
-        Artificial Intelligence
-                 │
-                 ├── LLMs
-                 ├── AI APIs
-                 ├── AI Agents
-                 └── AI Applications
-```
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql&theme=dark" />
 
----
+<br/><br/>
 
-## 💬 Developer Philosophy
+### 🤖 AI & Tools
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
-### ✨ Build with purpose.
-### 🧠 Learn continuously.
-### 🚀 Create without limits.
+<br/><br/>
 
-<br/>
-
-**Code → Learn → Build → Repeat**
+<img src="https://img.shields.io/badge/Next.js-00F5FF?style=for-the-badge&logo=next.js&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00E5FF?style=for-the-badge&logo=tailwind-css&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-7B2FFF?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0066FF?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF00E5?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+<!-- ==================== WHAT I BUILD ==================== -->
+
+<h2 align="center">🚀 WHAT I BUILD</h2>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+| ⚡ | Area | Focus |
+|---|---|---|
+| 🌐 | **Web Development** | Modern & scalable applications |
+| 🎨 | **UI / UX** | Clean & responsive interfaces |
+| 🗄️ | **Database** | Reliable data architecture |
+| 🤖 | **Artificial Intelligence** | AI-powered applications |
+| 🧠 | **Learning** | Exploring new technologies |
 
 </div>
 
-<br/>
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF00E5&text_color=FFFFFF&ring_color=7B2FFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=00F5FF&fire=FF00E5&currStreakLabel=00F5FF&sideLabels=7B2FFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
+
+---
+
+<!-- ==================== CONTRIBUTION ==================== -->
+
+<h

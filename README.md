@@ -180,9 +180,16 @@ const adnan = {
 
 <br/><br/>
 
+---
+
+## ◆ GitHub Trophies
+
+<div align="center">
+
 <img
-  src="https://github-profile-trophy.vercel.app/?username=adnanhaydir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+  src="https://github-profile-trophy.vercel.app/?username=adnanhaydir&theme=darkhub&no-frame=true&no-bg=true&column=4"
   width="85%"
+  alt="GitHub Trophies"
 />
 
 </div>
@@ -194,8 +201,9 @@ const adnan = {
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhaydir&bg_color=080A09&color=D4AF37&line=9FB8A8&point=D4AF37&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhaydir"
   width="100%"
+  alt="GitHub Activity Graph"
 />
 
 </div>

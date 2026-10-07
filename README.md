@@ -161,13 +161,55 @@ const adnan = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adnanhaydir&show_icons=true&count_private=true&hide_border=true&bg_color=080A09&title_color=D4AF37&icon_color=9FB8A8&text_color=E7E5E0" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=adnanhaydir&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080A09&title_color=D4AF37&icon_color=9FB8A8&text_color=E7E5E0&rank_icon=github"
+  height="180"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhaydir&layout=compact&hide_border=true&bg_color=080A09&title_color=D4AF37&text_color=E7E5E0" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhaydir&layout=compact&langs_count=8&hide_border=true&bg_color=080A09&title_color=D4AF37&text_color=E7E5E0"
+  height="180"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=adnanhaydir&hide_border=true&background=080A09&ring=D4AF37&fire=9FB8A8&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0" />
+<img
+  src="https://streak-stats.demolab.com?user=adnanhaydir&hide_border=true&background=080A09&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0"
+  width="70%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=adnanhaydir&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4"
+  width="85%"
+/>
+
+</div>
+
+---
+
+## ◆ Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhaydir&bg_color=080A09&color=D4AF37&line=9FB8A8&point=D4AF37&area=true&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
+---
+
+## ◆ Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+/>
 
 </div>
 

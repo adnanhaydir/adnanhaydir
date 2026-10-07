@@ -32,6 +32,8 @@
 
 ---
 
+<div align="center">
+
 ## ◆ About Me
 
 I'm **Adnan Haydir**, a developer focused on creating **modern, scalable, and elegant digital experiences**.
@@ -83,6 +85,8 @@ const adnan = {
 </div>
 
 ---
+
+<div align="center">
 
 ## ◆ Technology
 

@@ -28,7 +28,6 @@ Currently, I'm expanding my journey into **Artificial Intelligence**, exploring 
   <img src="https://cdn.simpleicons.org/prisma/white" alt="Prisma" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="42" height="42" />
 </p>
 
@@ -61,11 +60,11 @@ Every project is an opportunity to learn something new, solve a real problem, an
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="Adnan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanhaydir&show_icons=true&theme=transparent&hide_border=true" alt="Adnan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanhaydir&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

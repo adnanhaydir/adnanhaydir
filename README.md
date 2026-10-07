@@ -182,26 +182,20 @@ const adnan = {
 
 ---
 
-## ◆ GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=adnanhaydir&theme=darkhub&no-frame=true&no-bg=true&column=4"
-  width="85%"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
 ## ◆ Contribution Activity
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhaydir"
+  src="https://raw.githubusercontent.com/adnanhaydir/adnanhaydir/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="Contribution Snake"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=adnanhaydir&bg_color=080A09&color=D4AF37&line=9FB8A8&point=D4AF37&area=true&hide_border=true"
   width="100%"
   alt="GitHub Activity Graph"
 />

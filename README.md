@@ -147,7 +147,7 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
 
 ### `STATUS`
 
-**Crafting • Learning • Improving • Shipping**
+**Crafting • Learning • Improving • Solving**
 
 `████████████████████░░` **90%**
 

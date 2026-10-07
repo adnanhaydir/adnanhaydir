@@ -27,8 +27,6 @@ Currently, I'm expanding my journey into **Artificial Intelligence**, exploring 
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/prisma/white" alt="Prisma" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/openai/white" alt="OpenAI" width="42" height="42" />
 </p>
 
 ---

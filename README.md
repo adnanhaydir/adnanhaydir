@@ -174,7 +174,7 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=adnanhaydir&hide_border=true&background=080A09&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0"
+  src="https://adnan-readme-stats.vercel.app?user=adnanhaydir&hide_border=true&background=080A09&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=9FB8A8&dates=737A75&currStreakNum=F5F5F0&sideNums=F5F5F0"
   width="70%"
 />
 

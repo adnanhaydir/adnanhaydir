@@ -171,8 +171,6 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
   height="180"
 />
 
-<br/><br/>
-
 ---
 
 ## ◆ Developer Philosophy

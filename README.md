@@ -162,12 +162,12 @@ My approach combines clean engineering, thoughtful UI/UX, and attention to detai
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=adnanhaydir&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080A09&title_color=D4AF37&icon_color=9FB8A8&text_color=E7E5E0&rank_icon=github"
+  src="https://adnan-readme-stats.vercel.app/api?username=adnanhaydir&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080A09&title_color=D4AF37&icon_color=9FB8A8&text_color=E7E5E0&rank_icon=github"
   height="180"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanhaydir&layout=compact&langs_count=8&hide_border=true&bg_color=080A09&title_color=D4AF37&text_color=E7E5E0"
+  src="https://adnan-readme-stats.vercel.app/api/top-langs/?username=adnanhaydir&layout=compact&langs_count=8&hide_border=true&bg_color=080A09&title_color=D4AF37&text_color=E7E5E0"
   height="180"
 />
 
